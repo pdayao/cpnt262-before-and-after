@@ -2,4 +2,3 @@
 ## Web Client and Server Programmings
 Achievements Round 1 - Before and After\
 Patricia Dayao\
-GH Pages:
